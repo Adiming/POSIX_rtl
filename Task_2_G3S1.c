@@ -1,3 +1,4 @@
+// Order of argv is : period, load, scheduling policy, priority
 #include <stdio.h>
 #include <signal.h>
 #include <unistd.h>
